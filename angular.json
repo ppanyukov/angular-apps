@@ -34,6 +34,8 @@
           "configurations": {
             "production": {
               "outputPath": "docs",
+              "baseHref" : "/angular-apps/",
+              "deployUrl": "/angular-apps/",
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
